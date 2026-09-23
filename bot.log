@@ -1,0 +1,982 @@
+2026-09-14 21:13:55 | user_id=1141760956 | text=
+2026-09-14 21:13:57 | user_id=1141760956 | text=
+2026-09-14 21:14:22 | user_id=1141760956 | text=
+2026-09-14 21:16:06 | user_id=1141760956 | text=/start
+2026-09-14 21:16:07 | user_id=1141760956 | text=Помощь
+2026-09-14 21:16:11 | user_id=1141760956 | text=привет бот
+2026-09-14 21:20:32 | user_id=1141760956 | text=/start
+2026-09-14 21:20:43 | user_id=1141760956 | text=/count
+2026-09-14 21:21:00 | user_id=1141760956 | text=привет
+2026-09-14 21:21:06 | user_id=1141760956 | text=/count
+2026-09-14 21:21:07 | user_id=1141760956 | text=/count
+2026-09-14 21:27:01 | user_id=1141760956 | text=/start
+2026-09-14 21:27:05 | user_id=1141760956 | text=/count
+2026-09-14 21:27:08 | user_id=1141760956 | text=/count
+2026-09-14 21:27:12 | user_id=1141760956 | text=Фото
+2026-09-14 21:27:15 | user_id=1141760956 | text=/count
+2026-09-14 21:28:48 | user_id=1141760956 | text=/start
+2026-09-14 21:33:53 | user_id=1141760956 | text=/start
+2026-09-14 21:39:08 | user_id=1141760956 | text=/start
+2026-09-14 21:40:15 | user_id=1141760956 | text=/start
+2026-09-14 21:40:21 | user_id=1141760956 | text=Помощь
+2026-09-14 21:40:23 | user_id=1141760956 | text=Старт
+2026-09-14 21:40:24 | user_id=1141760956 | text=Старт
+2026-09-14 21:40:28 | user_id=1141760956 | text=привет
+2026-09-14 21:40:33 | user_id=1141760956 | text=/count
+2026-09-16 21:24:12 | user_id=1141760956 | text=Старт
+2026-09-16 21:24:16 | user_id=1141760956 | text=Фото
+2026-09-16 21:24:18 | user_id=1141760956 | text=Помощь
+2026-09-16 21:24:29 | user_id=1141760956 | text=/history
+2026-09-16 21:24:32 | user_id=1141760956 | text=/history
+2026-09-16 21:25:21 | user_id=1141760956 | text=/stats
+2026-09-16 21:25:23 | user_id=1141760956 | text=/stats
+2026-09-21 21:16:30 | user_id=1141760956 | text=Старт
+2026-09-21 21:18:30 | user_id=1141760956 | text=/stats
+2026-09-21 21:18:56 | user_id=1141760956 | text=/help
+2026-09-21 21:19:52 | user_id=1141760956 | text=/start
+2026-09-21 21:20:00 | user_id=1141760956 | text=Фото
+2026-09-21 21:21:03 | user_id=1141760956 | text=/survey
+2026-09-21 21:21:08 | user_id=1141760956 | text=ксения
+2026-09-21 21:21:10 | user_id=1141760956 | text=20
+2026-09-21 21:21:13 | user_id=1141760956 | text=крас
+2026-09-21 21:21:17 | user_id=1141760956 | text=с++
+2026-09-21 21:21:39 | user_id=1141760956 | text=/stats
+2026-09-21 21:23:26 | user_id=1141760956 | text=/survey
+2026-09-21 21:23:29 | user_id=1141760956 | text=ка
+2026-09-21 21:23:31 | user_id=1141760956 | text=34
+2026-09-21 21:23:33 | user_id=1141760956 | text=крас
+2026-09-21 21:23:36 | user_id=1141760956 | text=с++
+2026-09-21 21:23:41 | user_id=1141760956 | text=/stats
+2026-09-21 21:23:49 | user_id=1141760956 | text=/survey
+2026-09-21 21:23:52 | user_id=1141760956 | text=пр
+2026-09-21 21:23:54 | user_id=1141760956 | text=43
+2026-09-21 21:23:56 | user_id=1141760956 | text=авы
+2026-09-21 21:23:59 | user_id=1141760956 | text=апр
+2026-09-21 21:24:03 | user_id=1141760956 | text=/stats
+2026-09-21 21:24:31 | user_id=1141760956 | text=/ping
+2026-09-21 21:24:44 | user_id=1141760956 | text=/clear_history
+2026-09-21 21:24:48 | user_id=1141760956 | text=/stats
+2026-09-21 21:25:02 | user_id=1141760956 | text=/cancel
+2026-09-21 21:28:53 | user_id=1141760956 | text=/clear_history
+2026-09-23 20:17:37 | root | INFO | бот инициализирован...
+2026-09-23 20:17:38 | root | INFO | Бот запущен! Имя: test bot for Python52, username: test525252525252_bot, id: 8920608226
+2026-09-23 20:17:38 | aiogram.dispatcher | INFO | Start polling
+2026-09-23 20:17:38 | aiogram.dispatcher | INFO | Run polling for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:18:01 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:18:01 | middlewares.logging_middleware | INFO | Обработано за: 0.520 сек.
+2026-09-23 20:18:01 | aiogram.event | INFO | Update id=39454656 is handled. Duration 521 ms by bot id=8920608226
+2026-09-23 20:19:05 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:05 | middlewares.logging_middleware | INFO | Обработано за: 0.003 сек.
+2026-09-23 20:19:05 | aiogram.event | INFO | Update id=39454657 is not handled. Duration 4 ms by bot id=8920608226
+2026-09-23 20:19:15 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:15 | middlewares.logging_middleware | INFO | Обработано за: 0.004 сек.
+2026-09-23 20:19:15 | aiogram.event | INFO | Update id=39454658 is not handled. Duration 5 ms by bot id=8920608226
+2026-09-23 20:19:27 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:28 | middlewares.logging_middleware | INFO | Обработано за: 0.143 сек.
+2026-09-23 20:19:28 | aiogram.event | INFO | Update id=39454659 is handled. Duration 144 ms by bot id=8920608226
+2026-09-23 20:19:31 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:32 | middlewares.logging_middleware | INFO | Обработано за: 0.248 сек.
+2026-09-23 20:19:32 | aiogram.event | INFO | Update id=39454660 is handled. Duration 249 ms by bot id=8920608226
+2026-09-23 20:19:39 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:39 | middlewares.logging_middleware | INFO | Обработано за: 0.160 сек.
+2026-09-23 20:19:39 | aiogram.event | INFO | Update id=39454661 is handled. Duration 161 ms by bot id=8920608226
+2026-09-23 20:19:41 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:42 | middlewares.error_middleware | ERROR | Ошибка: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+2026-09-23 20:19:42 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 1397, in write_bytes
+    await self._body.write_with_length(writer, content_length)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 296, in write_with_length
+    await self.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\multipart.py", line 1159, in write
+    await part.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1030, in write
+    await self.write_with_length(writer, None)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1072, in write_with_length
+    chunk = await anext(self._iter)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\types\input_file.py", line 104, in read
+    async with aiofiles.open(self.path, "rb") as f:
+               ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 73, in __aenter__
+    return await self
+           ^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 69, in __await__
+    self._obj = yield from self._coro.__await__()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\threadpool\__init__.py", line 93, in _open
+    f = await loop.run_in_executor(executor, cb)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: 'core/img/1.jpg'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 836, in _connect_and_send_request
+    await resp.start(conn)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 558, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\streams.py", line 705, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 61, in hendle_callback
+    await callback.message.answer_photo(
+    ...<2 lines>...
+    )
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+2026-09-23 20:19:43 | middlewares.logging_middleware | INFO | Обработано за: 1.471 сек.
+2026-09-23 20:19:43 | aiogram.event | INFO | Update id=39454662 is handled. Duration 1472 ms by bot id=8920608226
+2026-09-23 20:19:50 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:19:50 | middlewares.logging_middleware | INFO | Обработано за: 0.352 сек.
+2026-09-23 20:19:50 | aiogram.event | INFO | Update id=39454663 is handled. Duration 353 ms by bot id=8920608226
+2026-09-23 20:20:26 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:20:26 | middlewares.error_middleware | ERROR | Ошибка: No module named 'hendlers'
+2026-09-23 20:20:26 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 43, in hendle_callback
+    from hendlers.survey import SurveyStates
+ModuleNotFoundError: No module named 'hendlers'
+
+2026-09-23 20:20:26 | middlewares.logging_middleware | INFO | Обработано за: 0.336 сек.
+2026-09-23 20:20:26 | aiogram.event | INFO | Update id=39454664 is handled. Duration 337 ms by bot id=8920608226
+2026-09-23 20:20:31 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:20:31 | middlewares.error_middleware | ERROR | Ошибка: No module named 'hendlers'
+2026-09-23 20:20:31 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 43, in hendle_callback
+    from hendlers.survey import SurveyStates
+ModuleNotFoundError: No module named 'hendlers'
+
+2026-09-23 20:20:31 | middlewares.logging_middleware | INFO | Обработано за: 0.272 сек.
+2026-09-23 20:20:31 | aiogram.event | INFO | Update id=39454665 is handled. Duration 274 ms by bot id=8920608226
+2026-09-23 20:20:47 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:20:47 | middlewares.error_middleware | ERROR | Ошибка: No module named 'hendlers'
+2026-09-23 20:20:47 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 43, in hendle_callback
+    from hendlers.survey import SurveyStates
+ModuleNotFoundError: No module named 'hendlers'
+
+2026-09-23 20:20:47 | middlewares.logging_middleware | INFO | Обработано за: 0.282 сек.
+2026-09-23 20:20:47 | aiogram.event | INFO | Update id=39454666 is handled. Duration 283 ms by bot id=8920608226
+2026-09-23 20:21:59 | aiogram.dispatcher | INFO | Polling stopped
+2026-09-23 20:21:59 | aiogram.dispatcher | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-23 20:21:59 | aiogram.dispatcher | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8920608226)
+2026-09-23 20:21:59 | aiogram.dispatcher | INFO | Polling stopped for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:22:10 | root | INFO | бот инициализирован...
+2026-09-23 20:22:10 | root | INFO | Бот запущен! Имя: test bot for Python52, username: test525252525252_bot, id: 8920608226
+2026-09-23 20:22:10 | aiogram.dispatcher | INFO | Start polling
+2026-09-23 20:22:10 | aiogram.dispatcher | INFO | Run polling for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:22:15 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:16 | middlewares.logging_middleware | INFO | Обработано за: 0.525 сек.
+2026-09-23 20:22:16 | aiogram.event | INFO | Update id=39454667 is handled. Duration 526 ms by bot id=8920608226
+2026-09-23 20:22:18 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:18 | middlewares.logging_middleware | INFO | Обработано за: 0.004 сек.
+2026-09-23 20:22:18 | aiogram.event | INFO | Update id=39454668 is not handled. Duration 5 ms by bot id=8920608226
+2026-09-23 20:22:25 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:25 | middlewares.logging_middleware | INFO | Обработано за: 0.141 сек.
+2026-09-23 20:22:25 | aiogram.event | INFO | Update id=39454669 is handled. Duration 142 ms by bot id=8920608226
+2026-09-23 20:22:27 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:27 | middlewares.error_middleware | ERROR | Ошибка: No module named 'hendlers'
+2026-09-23 20:22:27 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 43, in hendle_callback
+    from hendlers.survey import SurveyStates
+ModuleNotFoundError: No module named 'hendlers'
+
+2026-09-23 20:22:27 | middlewares.logging_middleware | INFO | Обработано за: 0.317 сек.
+2026-09-23 20:22:27 | aiogram.event | INFO | Update id=39454670 is handled. Duration 318 ms by bot id=8920608226
+2026-09-23 20:22:31 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:31 | middlewares.error_middleware | ERROR | Ошибка: No module named 'hendlers'
+2026-09-23 20:22:31 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 43, in hendle_callback
+    from hendlers.survey import SurveyStates
+ModuleNotFoundError: No module named 'hendlers'
+
+2026-09-23 20:22:31 | middlewares.logging_middleware | INFO | Обработано за: 0.334 сек.
+2026-09-23 20:22:31 | aiogram.event | INFO | Update id=39454671 is handled. Duration 334 ms by bot id=8920608226
+2026-09-23 20:22:34 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:34 | middlewares.logging_middleware | INFO | Обработано за: 0.599 сек.
+2026-09-23 20:22:34 | aiogram.event | INFO | Update id=39454672 is handled. Duration 600 ms by bot id=8920608226
+2026-09-23 20:22:37 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:37 | middlewares.logging_middleware | INFO | Обработано за: 0.151 сек.
+2026-09-23 20:22:37 | aiogram.event | INFO | Update id=39454673 is handled. Duration 151 ms by bot id=8920608226
+2026-09-23 20:22:39 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:39 | middlewares.logging_middleware | INFO | Обработано за: 0.334 сек.
+2026-09-23 20:22:39 | aiogram.event | INFO | Update id=39454674 is handled. Duration 335 ms by bot id=8920608226
+2026-09-23 20:22:41 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:22:41 | middlewares.logging_middleware | INFO | Обработано за: 0.136 сек.
+2026-09-23 20:22:41 | aiogram.event | INFO | Update id=39454675 is handled. Duration 137 ms by bot id=8920608226
+2026-09-23 20:23:43 | aiogram.dispatcher | INFO | Polling stopped
+2026-09-23 20:23:43 | aiogram.dispatcher | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-23 20:23:43 | aiogram.dispatcher | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8920608226)
+2026-09-23 20:23:43 | aiogram.dispatcher | INFO | Polling stopped for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:23:50 | root | INFO | бот инициализирован...
+2026-09-23 20:23:50 | root | INFO | Бот запущен! Имя: test bot for Python52, username: test525252525252_bot, id: 8920608226
+2026-09-23 20:23:50 | aiogram.dispatcher | INFO | Start polling
+2026-09-23 20:23:50 | aiogram.dispatcher | INFO | Run polling for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:24:01 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:01 | middlewares.logging_middleware | INFO | Обработано за: 0.532 сек.
+2026-09-23 20:24:01 | aiogram.event | INFO | Update id=39454676 is handled. Duration 533 ms by bot id=8920608226
+2026-09-23 20:24:07 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:07 | middlewares.logging_middleware | INFO | Обработано за: 0.149 сек.
+2026-09-23 20:24:07 | aiogram.event | INFO | Update id=39454677 is handled. Duration 150 ms by bot id=8920608226
+2026-09-23 20:24:09 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:10 | middlewares.logging_middleware | INFO | Обработано за: 0.525 сек.
+2026-09-23 20:24:10 | aiogram.event | INFO | Update id=39454678 is handled. Duration 526 ms by bot id=8920608226
+2026-09-23 20:24:11 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:11 | middlewares.logging_middleware | INFO | Обработано за: 0.193 сек.
+2026-09-23 20:24:11 | aiogram.event | INFO | Update id=39454679 is handled. Duration 194 ms by bot id=8920608226
+2026-09-23 20:24:13 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:14 | middlewares.error_middleware | ERROR | Ошибка: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+2026-09-23 20:24:14 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 1397, in write_bytes
+    await self._body.write_with_length(writer, content_length)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 296, in write_with_length
+    await self.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\multipart.py", line 1159, in write
+    await part.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1030, in write
+    await self.write_with_length(writer, None)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1072, in write_with_length
+    chunk = await anext(self._iter)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\types\input_file.py", line 104, in read
+    async with aiofiles.open(self.path, "rb") as f:
+               ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 73, in __aenter__
+    return await self
+           ^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 69, in __await__
+    self._obj = yield from self._coro.__await__()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\threadpool\__init__.py", line 93, in _open
+    f = await loop.run_in_executor(executor, cb)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: 'core/img/1.jpg'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 836, in _connect_and_send_request
+    await resp.start(conn)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 558, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\streams.py", line 705, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 61, in hendle_callback
+    await callback.message.answer_photo(
+    ...<2 lines>...
+    )
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+2026-09-23 20:24:15 | middlewares.logging_middleware | INFO | Обработано за: 1.691 сек.
+2026-09-23 20:24:15 | aiogram.event | INFO | Update id=39454680 is handled. Duration 1692 ms by bot id=8920608226
+2026-09-23 20:24:16 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:16 | middlewares.logging_middleware | INFO | Обработано за: 0.382 сек.
+2026-09-23 20:24:16 | aiogram.event | INFO | Update id=39454681 is handled. Duration 384 ms by bot id=8920608226
+2026-09-23 20:24:18 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:18 | middlewares.logging_middleware | INFO | Обработано за: 0.707 сек.
+2026-09-23 20:24:18 | aiogram.event | INFO | Update id=39454682 is handled. Duration 708 ms by bot id=8920608226
+2026-09-23 20:24:22 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:22 | middlewares.logging_middleware | INFO | Обработано за: 0.179 сек.
+2026-09-23 20:24:22 | aiogram.event | INFO | Update id=39454683 is handled. Duration 180 ms by bot id=8920608226
+2026-09-23 20:24:25 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:25 | middlewares.logging_middleware | INFO | Обработано за: 0.147 сек.
+2026-09-23 20:24:25 | aiogram.event | INFO | Update id=39454684 is handled. Duration 148 ms by bot id=8920608226
+2026-09-23 20:24:26 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:27 | middlewares.logging_middleware | INFO | Обработано за: 0.210 сек.
+2026-09-23 20:24:27 | aiogram.event | INFO | Update id=39454685 is handled. Duration 211 ms by bot id=8920608226
+2026-09-23 20:24:28 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:29 | middlewares.logging_middleware | INFO | Обработано за: 0.214 сек.
+2026-09-23 20:24:29 | aiogram.event | INFO | Update id=39454686 is handled. Duration 215 ms by bot id=8920608226
+2026-09-23 20:24:34 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:34 | middlewares.logging_middleware | INFO | Обработано за: 0.134 сек.
+2026-09-23 20:24:34 | aiogram.event | INFO | Update id=39454687 is handled. Duration 136 ms by bot id=8920608226
+2026-09-23 20:24:36 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:36 | middlewares.logging_middleware | INFO | Обработано за: 0.694 сек.
+2026-09-23 20:24:36 | aiogram.event | INFO | Update id=39454688 is handled. Duration 695 ms by bot id=8920608226
+2026-09-23 20:24:43 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:24:43 | middlewares.logging_middleware | INFO | Обработано за: 0.005 сек.
+2026-09-23 20:24:43 | aiogram.event | INFO | Update id=39454689 is not handled. Duration 6 ms by bot id=8920608226
+2026-09-23 20:25:23 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:24 | middlewares.logging_middleware | INFO | Обработано за: 0.148 сек.
+2026-09-23 20:25:24 | aiogram.event | INFO | Update id=39454690 is handled. Duration 150 ms by bot id=8920608226
+2026-09-23 20:25:40 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:40 | middlewares.logging_middleware | INFO | Обработано за: 0.139 сек.
+2026-09-23 20:25:40 | aiogram.event | INFO | Update id=39454691 is handled. Duration 141 ms by bot id=8920608226
+2026-09-23 20:25:44 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:44 | middlewares.logging_middleware | INFO | Обработано за: 0.145 сек.
+2026-09-23 20:25:44 | aiogram.event | INFO | Update id=39454692 is handled. Duration 146 ms by bot id=8920608226
+2026-09-23 20:25:46 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:46 | middlewares.logging_middleware | INFO | Обработано за: 0.164 сек.
+2026-09-23 20:25:46 | aiogram.event | INFO | Update id=39454693 is handled. Duration 165 ms by bot id=8920608226
+2026-09-23 20:25:47 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:48 | middlewares.logging_middleware | INFO | Обработано за: 0.218 сек.
+2026-09-23 20:25:48 | aiogram.event | INFO | Update id=39454694 is handled. Duration 219 ms by bot id=8920608226
+2026-09-23 20:25:49 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:50 | middlewares.logging_middleware | INFO | Обработано за: 0.299 сек.
+2026-09-23 20:25:50 | aiogram.event | INFO | Update id=39454695 is handled. Duration 300 ms by bot id=8920608226
+2026-09-23 20:25:52 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:53 | middlewares.logging_middleware | INFO | Обработано за: 0.194 сек.
+2026-09-23 20:25:53 | aiogram.event | INFO | Update id=39454696 is handled. Duration 211 ms by bot id=8920608226
+2026-09-23 20:25:55 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:25:56 | middlewares.logging_middleware | INFO | Обработано за: 0.217 сек.
+2026-09-23 20:25:56 | aiogram.event | INFO | Update id=39454697 is handled. Duration 218 ms by bot id=8920608226
+2026-09-23 20:26:04 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:26:05 | middlewares.logging_middleware | INFO | Обработано за: 0.139 сек.
+2026-09-23 20:26:05 | aiogram.event | INFO | Update id=39454698 is handled. Duration 140 ms by bot id=8920608226
+2026-09-23 20:26:22 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:26:22 | middlewares.logging_middleware | INFO | Обработано за: 0.157 сек.
+2026-09-23 20:26:22 | aiogram.event | INFO | Update id=39454699 is handled. Duration 158 ms by bot id=8920608226
+2026-09-23 20:26:35 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:26:35 | middlewares.logging_middleware | INFO | Обработано за: 0.193 сек.
+2026-09-23 20:26:35 | aiogram.event | INFO | Update id=39454700 is handled. Duration 196 ms by bot id=8920608226
+2026-09-23 20:26:44 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:26:44 | middlewares.error_middleware | ERROR | Ошибка: division by zero
+2026-09-23 20:26:44 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\start.py", line 28, in cmd_crash
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-09-23 20:26:44 | middlewares.logging_middleware | INFO | Обработано за: 0.156 сек.
+2026-09-23 20:26:44 | aiogram.event | INFO | Update id=39454701 is handled. Duration 157 ms by bot id=8920608226
+2026-09-23 20:28:17 | aiogram.dispatcher | INFO | Polling stopped
+2026-09-23 20:28:17 | aiogram.dispatcher | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-23 20:28:17 | aiogram.dispatcher | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8920608226)
+2026-09-23 20:28:17 | aiogram.dispatcher | INFO | Polling stopped for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:28:24 | root | INFO | бот инициализирован...
+2026-09-23 20:28:24 | root | INFO | Бот запущен! Имя: test bot for Python52, username: test525252525252_bot, id: 8920608226
+2026-09-23 20:28:24 | aiogram.dispatcher | INFO | Start polling
+2026-09-23 20:28:24 | aiogram.dispatcher | INFO | Run polling for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:28:35 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:36 | middlewares.logging_middleware | INFO | Обработано за: 0.532 сек.
+2026-09-23 20:28:36 | aiogram.event | INFO | Update id=39454702 is handled. Duration 534 ms by bot id=8920608226
+2026-09-23 20:28:41 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:41 | middlewares.logging_middleware | INFO | Обработано за: 0.153 сек.
+2026-09-23 20:28:41 | aiogram.event | INFO | Update id=39454703 is handled. Duration 154 ms by bot id=8920608226
+2026-09-23 20:28:43 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:44 | middlewares.logging_middleware | INFO | Обработано за: 0.338 сек.
+2026-09-23 20:28:44 | aiogram.event | INFO | Update id=39454704 is handled. Duration 339 ms by bot id=8920608226
+2026-09-23 20:28:46 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:46 | middlewares.logging_middleware | INFO | Обработано за: 0.169 сек.
+2026-09-23 20:28:46 | aiogram.event | INFO | Update id=39454705 is handled. Duration 180 ms by bot id=8920608226
+2026-09-23 20:28:47 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:48 | middlewares.error_middleware | ERROR | Ошибка: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+2026-09-23 20:28:48 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 1397, in write_bytes
+    await self._body.write_with_length(writer, content_length)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 296, in write_with_length
+    await self.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\multipart.py", line 1159, in write
+    await part.write(writer)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1030, in write
+    await self.write_with_length(writer, None)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\payload.py", line 1072, in write_with_length
+    chunk = await anext(self._iter)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\types\input_file.py", line 104, in read
+    async with aiofiles.open(self.path, "rb") as f:
+               ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 73, in __aenter__
+    return await self
+           ^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\base.py", line 69, in __await__
+    self._obj = yield from self._coro.__await__()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiofiles\threadpool\__init__.py", line 93, in _open
+    f = await loop.run_in_executor(executor, cb)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Program Files\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: 'core/img/1.jpg'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 1693, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 858, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client.py", line 836, in _connect_and_send_request
+    await resp.start(conn)
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\client_reqrep.py", line 558, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiohttp\streams.py", line 705, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\inline.py", line 61, in hendle_callback
+    await callback.message.answer_photo(
+    ...<2 lines>...
+    )
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\bot.py", line 515, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8920608226:AAEGZgpS5-fi_1AFzRNnWmE-A9pcfOTJdm4/sendPhoto
+
+2026-09-23 20:28:48 | middlewares.logging_middleware | INFO | Обработано за: 1.042 сек.
+2026-09-23 20:28:48 | aiogram.event | INFO | Update id=39454706 is handled. Duration 1043 ms by bot id=8920608226
+2026-09-23 20:28:50 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:50 | middlewares.logging_middleware | INFO | Обработано за: 0.277 сек.
+2026-09-23 20:28:50 | aiogram.event | INFO | Update id=39454707 is handled. Duration 278 ms by bot id=8920608226
+2026-09-23 20:28:51 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:52 | middlewares.logging_middleware | INFO | Обработано за: 0.429 сек.
+2026-09-23 20:28:52 | aiogram.event | INFO | Update id=39454708 is handled. Duration 430 ms by bot id=8920608226
+2026-09-23 20:28:54 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:54 | middlewares.logging_middleware | INFO | Обработано за: 0.240 сек.
+2026-09-23 20:28:54 | aiogram.event | INFO | Update id=39454709 is handled. Duration 242 ms by bot id=8920608226
+2026-09-23 20:28:55 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:55 | middlewares.logging_middleware | INFO | Обработано за: 0.148 сек.
+2026-09-23 20:28:55 | aiogram.event | INFO | Update id=39454710 is handled. Duration 149 ms by bot id=8920608226
+2026-09-23 20:28:56 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:56 | middlewares.logging_middleware | INFO | Обработано за: 0.133 сек.
+2026-09-23 20:28:56 | aiogram.event | INFO | Update id=39454711 is handled. Duration 134 ms by bot id=8920608226
+2026-09-23 20:28:57 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:28:57 | middlewares.logging_middleware | INFO | Обработано за: 0.164 сек.
+2026-09-23 20:28:57 | aiogram.event | INFO | Update id=39454712 is handled. Duration 166 ms by bot id=8920608226
+2026-09-23 20:29:00 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:00 | middlewares.logging_middleware | INFO | Обработано за: 0.151 сек.
+2026-09-23 20:29:00 | aiogram.event | INFO | Update id=39454713 is handled. Duration 152 ms by bot id=8920608226
+2026-09-23 20:29:03 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:03 | middlewares.logging_middleware | INFO | Обработано за: 0.430 сек.
+2026-09-23 20:29:03 | aiogram.event | INFO | Update id=39454714 is handled. Duration 431 ms by bot id=8920608226
+2026-09-23 20:29:11 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:11 | middlewares.logging_middleware | INFO | Обработано за: 0.136 сек.
+2026-09-23 20:29:11 | aiogram.event | INFO | Update id=39454715 is handled. Duration 137 ms by bot id=8920608226
+2026-09-23 20:29:17 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:17 | middlewares.logging_middleware | INFO | Обработано за: 0.151 сек.
+2026-09-23 20:29:17 | aiogram.event | INFO | Update id=39454716 is handled. Duration 152 ms by bot id=8920608226
+2026-09-23 20:29:21 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:21 | middlewares.logging_middleware | INFO | Обработано за: 0.205 сек.
+2026-09-23 20:29:21 | aiogram.event | INFO | Update id=39454717 is handled. Duration 206 ms by bot id=8920608226
+2026-09-23 20:29:25 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:25 | middlewares.logging_middleware | INFO | Обработано за: 0.181 сек.
+2026-09-23 20:29:25 | aiogram.event | INFO | Update id=39454718 is handled. Duration 182 ms by bot id=8920608226
+2026-09-23 20:29:27 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:27 | middlewares.error_middleware | ERROR | Ошибка: division by zero
+2026-09-23 20:29:27 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\start.py", line 26, in cmd_crash
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-09-23 20:29:27 | middlewares.logging_middleware | INFO | Обработано за: 0.188 сек.
+2026-09-23 20:29:27 | aiogram.event | INFO | Update id=39454719 is handled. Duration 189 ms by bot id=8920608226
+2026-09-23 20:29:33 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:34 | middlewares.logging_middleware | INFO | Обработано за: 0.233 сек.
+2026-09-23 20:29:34 | aiogram.event | INFO | Update id=39454720 is handled. Duration 234 ms by bot id=8920608226
+2026-09-23 20:29:36 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:36 | middlewares.logging_middleware | INFO | Обработано за: 0.132 сек.
+2026-09-23 20:29:36 | aiogram.event | INFO | Update id=39454721 is handled. Duration 133 ms by bot id=8920608226
+2026-09-23 20:29:38 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:38 | middlewares.logging_middleware | INFO | Обработано за: 0.148 сек.
+2026-09-23 20:29:38 | aiogram.event | INFO | Update id=39454722 is handled. Duration 149 ms by bot id=8920608226
+2026-09-23 20:29:38 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:39 | middlewares.logging_middleware | INFO | Обработано за: 0.144 сек.
+2026-09-23 20:29:39 | aiogram.event | INFO | Update id=39454723 is handled. Duration 146 ms by bot id=8920608226
+2026-09-23 20:29:40 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:40 | middlewares.logging_middleware | INFO | Обработано за: 0.177 сек.
+2026-09-23 20:29:40 | aiogram.event | INFO | Update id=39454724 is handled. Duration 177 ms by bot id=8920608226
+2026-09-23 20:29:44 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:29:44 | middlewares.error_middleware | ERROR | Ошибка: division by zero
+2026-09-23 20:29:44 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\start.py", line 26, in cmd_crash
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-09-23 20:29:44 | middlewares.logging_middleware | INFO | Обработано за: 0.150 сек.
+2026-09-23 20:29:44 | aiogram.event | INFO | Update id=39454725 is handled. Duration 151 ms by bot id=8920608226
+2026-09-23 20:32:07 | aiogram.dispatcher | INFO | Polling stopped
+2026-09-23 20:32:07 | aiogram.dispatcher | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-09-23 20:32:07 | aiogram.dispatcher | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8920608226)
+2026-09-23 20:32:07 | aiogram.dispatcher | INFO | Polling stopped for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:32:14 | root | INFO | бот инициализирован...
+2026-09-23 20:32:14 | root | INFO | Бот запущен! Имя: test bot for Python52, username: test525252525252_bot, id: 8920608226
+2026-09-23 20:32:14 | aiogram.dispatcher | INFO | Start polling
+2026-09-23 20:32:14 | aiogram.dispatcher | INFO | Run polling for bot @test525252525252_bot id=8920608226 - 'test bot for Python52'
+2026-09-23 20:32:23 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:23 | middlewares.logging_middleware | INFO | Обработано за: 0.527 сек.
+2026-09-23 20:32:23 | aiogram.event | INFO | Update id=39454726 is handled. Duration 528 ms by bot id=8920608226
+2026-09-23 20:32:26 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:26 | middlewares.logging_middleware | INFO | Обработано за: 0.154 сек.
+2026-09-23 20:32:26 | aiogram.event | INFO | Update id=39454727 is handled. Duration 155 ms by bot id=8920608226
+2026-09-23 20:32:27 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:27 | middlewares.logging_middleware | INFO | Обработано за: 0.139 сек.
+2026-09-23 20:32:27 | aiogram.event | INFO | Update id=39454728 is handled. Duration 140 ms by bot id=8920608226
+2026-09-23 20:32:28 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:28 | middlewares.logging_middleware | INFO | Обработано за: 0.136 сек.
+2026-09-23 20:32:28 | aiogram.event | INFO | Update id=39454729 is handled. Duration 137 ms by bot id=8920608226
+2026-09-23 20:32:29 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:29 | middlewares.logging_middleware | INFO | Обработано за: 0.158 сек.
+2026-09-23 20:32:29 | aiogram.event | INFO | Update id=39454730 is handled. Duration 159 ms by bot id=8920608226
+2026-09-23 20:32:32 | middlewares.logging_middleware | INFO | [другое] 1141760956 @kksosj: -
+2026-09-23 20:32:32 | middlewares.error_middleware | ERROR | Ошибка: division by zero
+2026-09-23 20:32:32 | middlewares.error_middleware | ERROR | Traceback (most recent call last):
+  File "c:\Users\ksius\джанго\middlewares\error_middleware.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 284, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 172, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 164, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 192, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ksius\джанго\my_site\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\ksius\джанго\handlers\start.py", line 26, in cmd_crash
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+
+2026-09-23 20:32:32 | middlewares.logging_middleware | INFO | Обработано за: 0.206 сек.
+2026-09-23 20:32:32 | aiogram.event | INFO | Update id=39454731 is handled. Duration 207 ms by bot id=8920608226
